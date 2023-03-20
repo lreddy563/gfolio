@@ -6,14 +6,14 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="country">
-        Cameroon
+        India | Bengaluru, Karnataka
       </div>
       <div className="footer-links">
         <div className="footer-links-section">
           <Link to="/about"> About </Link>
           <Link to="/projects"> Projects </Link>
           <Link to="/blog"> Blog</Link>
-          <a href="mailto:enjeckc1e0@gmail.com"> Email </a>
+          <a href="mailto:lreddy563@gmail.com"> Email </a>
         </div>
       </div>
     </footer>

@@ -78,11 +78,11 @@ function Home() {
       <div className="top-menu">
         <span className="top-menu-item no-show-mobile">
           {" "}
-          <a href="mailto:enjeckc1e0@gmail.com"> Email </a>
+          <a href="mailto:lreddy563@gmail.com"> Email </a>
         </span>
         <span className="top-menu-item no-show-mobile">
           {" "}
-          <a href="https://github.com/enjeck"> GitHub </a>
+          <a href="https://github.com/lreddy563"> GitHub </a>
         </span>
         <BoxMenuDrop />
         <ProfileMenuDrop />
@@ -112,19 +112,18 @@ function Home() {
 
       <footer className="footer">
         <div className="country">
-          Cameroon
+        Bengaluru, India
         </div>
         <div className="footer-links">
           <div className="footer-links-section">
             <Link to="/about"> About </Link>
             <Link to="/projects"> Projects </Link>
             <Link to="/blog"> Blog</Link>
-            <a href="mailto:enjeckc1e0@gmail.com"> Email </a>
           </div>
           <div className="footer-links-section">
-            <a href="https://github.com/enjeck"> GitHub </a>
-            <a href="https://www.linkedin.com/in/c1e0/"> LinkedIn </a>
-            <a href="mailto:enjeckc1e0@gmail.com"> Email </a>
+            <a href="https://github.com/lreddy563"> GitHub </a>
+            <a href="https://www.linkedin.com/in/n-lohidasu-reddy/"> LinkedIn </a>
+            <a href="mailto:lreddy563@gmail.com"> Email </a>
             {/* <div className="settings-dropdown">
               <button className="settings-dropbtn"> Settings </button>
               <div className="settings-dropdown-content">

@@ -35,7 +35,7 @@ const Logo = () => {
 
   return (
     <div className="search-logo">
-      <div className="logo-text"> Enjeck </div>
+      <div className="logo-text"> Lohidasu </div>
     </div>
   );
 };

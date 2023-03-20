@@ -38,13 +38,13 @@ const ProfileMenuDrop = () => {
     >
       <img
         className="profile-pic dropbtn"
-        src="https://i.pinimg.com/474x/ca/a9/35/caa9352cd119efe5641d6f7c3cc755fb.jpg"
+        src="https://lohidasu-reddy.github.io/images/profilepic1.jpg"
         alt="profile"
       />
       <div className="profile-hightlight-dropdown">
         <p> Portfolio Website </p>
-        <p> Enjeck Cleopatra </p>
-        <p> enjeckc1e0@gmail.com </p>
+        <p> Lohidasu Reddy </p>
+        <p> lreddy563@gmail.com </p>
       </div>
       <div
         className={
@@ -56,22 +56,22 @@ const ProfileMenuDrop = () => {
         <div className="first-detail">
           <img
             className=""
-            src="https://i.pinimg.com/474x/ca/a9/35/caa9352cd119efe5641d6f7c3cc755fb.jpg"
+            src="https://lohidasu-reddy.github.io/images/profilepic1.jpg"
             alt="profile"
           />
-          <p className="detail-text"> Enjeck Cleopatra </p>
-          <p className="detail-text"> enjeckc1e0@gmail.com </p>
-          <a href="https://enjeck.com"> View Another Website Design </a>
+          <p className="detail-text"> Lohidasu Reddy </p>
+          <p className="detail-text"> lreddy563@gmail.com </p>
+          <a href="https://lreddy563.github.io/"> View Another Website Design </a>
         </div>
         <Link className="second-detail" to="/about">
           <FontAwesomeIcon className="fa-user-plus" icon={faUserPlus} />
           <p> More about me </p>
         </Link>
         <div className="third-detail">
-          <a href="https://github.com/enjeck"> GitHub</a>
+          <a href="https://github.com/lreddy563"> GitHub</a>
         </div>
         <div className="fourth-detail">
-          <a href="https://github.com/PROTechThor/gfolio"> View code </a> <span> • </span>
+          <a href="https://github.com/lreddy563/gfolio"> View code </a> <span> • </span>
           <Link to="/blog"> Blog & news </Link>
         </div>
       </div>

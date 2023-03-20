@@ -44,9 +44,7 @@ const AccordionComponent = () => {
                 I enjoy reading fiction stories and philosophy. 
                 When I'm not reading for leisure, I spend my free time 
                 writing about random stuff. I also like listening to music,
-                especially jip hop, R&B and drill. My favorite artists are
-                Juice WRLD, Lil Tecca, JayDaYoungan, Yungeen Ace, SL, 
-                Meekz Manny and Fredo. 
+                especially telugu feel good old songs. 
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -79,7 +77,7 @@ const AccordionComponent = () => {
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
-               Definitely email. Contact me at enjeckc1e0@gmail.com.
+               Definitely email. Contact me at lreddy563@gmail.com.
               </Typography>
             </AccordionDetails>
           </Accordion>
